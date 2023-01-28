@@ -1,0 +1,255 @@
+[
+  {
+    "recipeName": "Сырники из творога (2 порции)",
+    "cookingTime": 30,
+    "cookingTimeMeasure": "минуты",
+    "ingredients": [
+      {
+        "ingredientName": "Творог",
+        "ingredientAmount": 350,
+        "ingredientAmountMeasure": "граммы"
+      },
+      {
+        "ingredientName": "Куриное яйцо",
+        "ingredientAmount": 2,
+        "ingredientAmountMeasure": "штуки"
+      },
+      {
+        "ingredientName": "Пшеничная мука",
+        "ingredientAmount": 6,
+        "ingredientAmountMeasure": "столовые ложки"
+      },
+      {
+        "ingredientName": "Сахар",
+        "ingredientAmount": 2,
+        "ingredientAmountMeasure": "столовые ложки"
+      }
+    ],
+    "cookingSteps": {
+      "step1": "Смешайте весь творог с яйцами, сахаром и тщательно всё перемешайте.",
+      "step2": "Всыпьте в творог муку и тщательно перемешайте.",
+      "step3": "Поставьте сковороду на средний огонь и налейте в нее подсолнечное масло.",
+      "step4": "Слепите несколько небольших шариков из получившейся творожной массы и положите их на тарелку. Затем по очереди обкатывайте творожные шарики в муке и выкладывайте на сковороду.",
+      "step5": "Обжаривайте сырники 1–2 минуты до появления золотистой корочки. Затем переверните их на другую сторону и также обжарьте до золотистого состояния.",
+      "step6": "Повторяйте, пока творог не закончится."
+    }
+  },
+  {
+    "recipeName": "Салат из красной фасоли с творожным сыром, красным луком и сезонным салатом",
+    "cookingTime": 7,
+    "cookingTimeMeasure": "минуты",
+    "ingredients": [
+      {
+        "ingredientName": "Специи",
+        "ingredientAmount": 0,
+        "ingredientAmountMeasure": "по вкусу"
+      },
+      {
+        "ingredientName": "Консервированная фасоль",
+        "ingredientAmount": 400,
+        "ingredientAmountMeasure": "граммы"
+      },
+      {
+        "ingredientName": "Лимон",
+        "ingredientAmount": 1,
+        "ingredientAmountMeasure": "штуки"
+      },
+      {
+        "ingredientName": "Чеснок",
+        "ingredientAmount": 2,
+        "ingredientAmountMeasure": "зубчики"
+      },
+      {
+        "ingredientName": "Оливковое масло",
+        "ingredientAmount": 50,
+        "ingredientAmountMeasure": "миллилитры"
+      },
+      {
+        "ingredientName": "Рукола",
+        "ingredientAmount": 100,
+        "ingredientAmountMeasure": "граммы"
+      },
+      {
+        "ingredientName": "Творожный сыр",
+        "ingredientAmount": 200,
+        "ingredientAmountMeasure": "граммы"
+      },
+      {
+        "ingredientName": "Красный лук",
+        "ingredientAmount": 50,
+        "ingredientAmountMeasure": "граммы"
+      }
+    ],
+    "cookingSteps": {
+      "step1": "Открыть две банки красной фасоли в собственном соку, слить сок и промыть фасоль холодной водой.",
+      "step2": "Готовую фасоль смешать с мелко нарубленным красным луком, зеленью, давленым чесноком, оливковым маслом, лимонным соком и творожным сыром.",
+      "step3": "Посолить, поперчить, дать продуктам две минуты притереться друг к другу и подавать к столу."
+    }
+  },
+  {
+    "recipeName": "Чечевичный суп с мятой (4 порции)",
+    "cookingTime": 30,
+    "cookingTimeMeasure": "минуты",
+    "ingredients": [
+      {
+        "ingredientName": "Красная чечевица",
+        "ingredientAmount": 150,
+        "ingredientAmountMeasure": "граммы"
+      },
+      {
+        "ingredientName": "Репчатый лук",
+        "ingredientAmount": 1,
+        "ingredientAmountMeasure": "головка"
+      },
+      {
+        "ingredientName": "Морковь",
+        "ingredientAmount": 1,
+        "ingredientAmountMeasure": "штуки"
+      },
+      {
+        "ingredientName": "Подсолнечное масло",
+        "ingredientAmount": 30,
+        "ingredientAmountMeasure": "миллилитры"
+      },
+      {
+        "ingredientName": "Сливочное масло",
+        "ingredientAmount": 15,
+        "ingredientAmountMeasure": "граммы"
+      },
+      {
+        "ingredientName": "Пшеничная мука",
+        "ingredientAmount": 30,
+        "ingredientAmountMeasure": "граммы"
+      },
+      {
+        "ingredientName": "Сливки 33%",
+        "ingredientAmount": 50,
+        "ingredientAmountMeasure": "миллилитры"
+      },
+      {
+        "ingredientName": "Специи",
+        "ingredientAmount": 0,
+        "ingredientAmountMeasure": "по вкусу"
+      },
+      {
+        "ingredientName": "Лимон",
+        "ingredientAmount": 0.5,
+        "ingredientAmountMeasure": "штуки"
+      },
+      {
+        "ingredientName": "Мята",
+        "ingredientAmount": 0,
+        "ingredientAmountMeasure": "по вкусу"
+      }
+    ],
+    "cookingSteps": {
+      "step1": "В небольшую кастрюлю налить литр воды и засыпать промытую чечевицу. Поставить кастрюлю на средний огонь.",
+      "step2": "Натереть небольшую морковь на крупной терке, мелко нарезать лук. Как только чечевица начнет кипеть, надо убавить огонь, а затем долить еще 200 мл воды или бульона. Варить еще десять минут.",
+      "step3": "Разогреть широкую плоскую сковороду, добавить туда подсолнечное и сливочное масло. Обжарить лук и морковь.",
+      "step4": "Добавить обжаренные овощи в кастрюлю, влить сливки. Взбить суп ручным блендером, чтобы он превратился в густое пюре. Суп можно подавать к столу."
+    }
+  },
+  {
+    "recipeName": "Салат с креветками и кунжутом",
+    "cookingTime": 20,
+    "cookingTimeMeasure": "минуты",
+    "ingredients": [
+      {
+        "ingredientName": "Помидоры",
+        "ingredientAmount": 3,
+        "ingredientAmountMeasure": "штуки"
+      },
+      {
+        "ingredientName": "Королевские креветки",
+        "ingredientAmount": 300,
+        "ingredientAmountMeasure": "граммы"
+      },
+      {
+        "ingredientName": "Зеленый салат",
+        "ingredientAmount": 1,
+        "ingredientAmountMeasure": "пучок"
+      },
+      {
+        "ingredientName": "Огурцы",
+        "ingredientAmount": 2,
+        "ingredientAmountMeasure": "штуки"
+      },
+      {
+        "ingredientName": "Специи",
+        "ingredientAmount": 0,
+        "ingredientAmountMeasure": "по вкусу"
+      },
+      {
+        "ingredientName": "Майонез",
+        "ingredientAmount": 0,
+        "ingredientAmountMeasure": "по вкусу"
+      },
+      {
+        "ingredientName": "Кунжутные семечки",
+        "ingredientAmount": 3,
+        "ingredientAmountMeasure": "столовые ложки"
+      }
+    ],
+    "cookingSteps": {
+      "step1": "Порезать овощи крупно, салат порвать на куски.",
+      "step2": "Довести до кипения сильно соленую воду и добавить креветки. После кипения варить 5 минут.",
+      "step3": "Очистить креветки от панциря.",
+      "step4": "Смешать овощи и креветки.",
+      "step5": "Посыпать кунжутными семечками и заправить майонезом."
+    }
+  },
+  {
+    "recipeName": "Творожные пончики в сахарной пудре",
+    "cookingTime": 40,
+    "cookingTimeMeasure": "минуты",
+    "ingredients": [
+      {
+        "ingredientName": "Творог",
+        "ingredientAmount": 250,
+        "ingredientAmountMeasure": "граммы"
+      },
+      {
+        "ingredientName": "Куриное яйцо",
+        "ingredientAmount": 3,
+        "ingredientAmountMeasure": "штуки"
+      },
+      {
+        "ingredientName": "Пшеничная мука",
+        "ingredientAmount": 8,
+        "ingredientAmountMeasure": "столовые ложки"
+      },
+      {
+        "ingredientName": "Соль",
+        "ingredientAmount": 0,
+        "ingredientAmountMeasure": "по вкусу"
+      },
+      {
+        "ingredientName": "Сахар",
+        "ingredientAmount": 0,
+        "ingredientAmountMeasure": "по вкусу"
+      },
+      {
+        "ingredientName": "Оливковое масло",
+        "ingredientAmount": 0,
+        "ingredientAmountMeasure": "по вкусу"
+      },
+      {
+        "ingredientName": "Сода",
+        "ingredientAmount": 0.5,
+        "ingredientAmountMeasure": "столовые ложки"
+      },
+      {
+        "ingredientName": "Сахарная пудра с ванилью",
+        "ingredientAmount": 0,
+        "ingredientAmountMeasure": "по вкусу"
+      }
+    ],
+    "cookingSteps": {
+      "step1": "В миске смешать творог, яйца, муку, сахар, соду и соль до однородной консистенции.",
+      "step2": "В небольшом сотейнике оливковое масло хорошо разогреть.",
+      "step3": "При помощи чайной ложки или руками скатать из теста шарики, каждый размером чуть меньше грецкого ореха.",
+      "step4": "Бросить пончики в кипящее масло и жарить на небольшом огне, постоянно переворачивая шумовкой.",
+      "step5": "Готовые пончики выложить на бумажное полотенце и оставить на одну-две минуты — чтобы оно впитало лишнее масло. Подавать пончики горячими, выложив на блюдо и посыпав сахарной пудрой, смешанной с ванилином."
+    }
+  }
+]
